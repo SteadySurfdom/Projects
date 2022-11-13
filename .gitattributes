@@ -1,0 +1,10 @@
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_notnormalised/generator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_notnormalised_labelsmoothing/generator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_normalised/discriminator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_normalised/generator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_notnormalised/discriminator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_20_epochs_8_bs_2k_dataset_notnormalised_labelsmoothing/discriminator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_25_epochs_8_bs_3k_dataset_notnormalised_labelsmoothing/discriminator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_25_epochs_8_bs_3k_dataset_notnormalised_labelsmoothing/generator.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/Project_checkpoints/5_epochs_warmup_generator_8_bs_2k_dataset_notnormalised/generator_warmup.h5 filter=lfs diff=lfs merge=lfs -text
+Super_Resolution_GAN/dataset_faces.rar filter=lfs diff=lfs merge=lfs -text
