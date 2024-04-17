@@ -18,7 +18,7 @@ To run inference on arbitrary videos, follow these steps:
 
 #### Parameters
 
-a. hoi-thres: The HOI score threshold to log the interaction.
+a. hoi-thres: The HOI score threshold to log the interaction./n
 b. show_bb: Set this flag to show the bounding boxes in the resultant video.
 c. show_emotions: Set this flag to show the detected emotions.
 d. print: Set this flag to print the interactions to the console.
