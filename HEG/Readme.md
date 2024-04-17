@@ -13,7 +13,9 @@ To run inference on arbitrary videos, follow these steps:
 
 1. Unzip the zip file and cd into the MAIN folder.
 
-2. Then to perform inference, replace the placeholders in the following command with directory pathss in your system and run:
+2. Download the weights folder and place it like HEG/weights/. Link to the folder: https://mega.nz/fm/1nsERKDK
+
+3. Then to perform inference, replace the placeholders in the following command with directory pathss in your system and run:
 `python run.py --source /Path/To/Source/Video --out /Path/To/Output --hoi-thres 0.17 --show_bb --show_emotions --print`
 
 #### Parameters
