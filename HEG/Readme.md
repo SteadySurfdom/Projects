@@ -18,10 +18,10 @@ To run inference on arbitrary videos, follow these steps:
 
 #### Parameters
 
-a. hoi-thres: The HOI score threshold to log the interaction./n
-b. show_bb: Set this flag to show the bounding boxes in the resultant video.
-c. show_emotions: Set this flag to show the detected emotions.
-d. print: Set this flag to print the interactions to the console.
+1. hoi-thres: The HOI score threshold to log the interaction.
+2. show_bb: Set this flag to show the bounding boxes in the resultant video.
+3. show_emotions: Set this flag to show the detected emotions.
+4. print: Set this flag to print the interactions to the console.
 
 ## Acknowledgments
 This repository is built on top of the existing works of another repository, linked as https://github.com/nizhf/hoi-prediction-gaze-transformer.
